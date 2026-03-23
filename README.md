@@ -28,15 +28,5 @@ A minimal, custom-built Linktree-style page for **Visula Siriwardana** — Creat
 
 ---
 
-## Hosting
-
-Deployed via **GitHub Pages** from the `main` branch.
-
-To enable GitHub Pages:
-1. Go to **Settings → Pages** in this repo
-2. Set source to `main` branch, `/ (root)`
-3. Save — the site will be live at `https://viuslas16.github.io/linktree-visulas/`
-
----
 
 © 2026 Visula Siriwardana
